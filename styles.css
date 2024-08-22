@@ -1,0 +1,4 @@
+body{
+    color:color-mix(in srgb, red 50%, black 50%);
+    background: black;
+}
