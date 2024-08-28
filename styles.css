@@ -2,3 +2,21 @@ body{
     color:color-mix(in srgb, red 50%, black 50%);
     background: black;
 }
+header {
+    border-bottom: solid 2px rgb(95, 228, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(200, 228, 42);
+}
+
+section{
+    background: rgb(54 100 22);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
