@@ -1,6 +1,7 @@
 body{
     color:color-mix(in srgb, red 50%, black 50%);
     background: black;
+    font-family: "Abril Fatface", serif;
 }
 header {
     border-bottom: solid 2px rgb(95, 228, 42);
@@ -17,6 +18,13 @@ section{
     justify-content: center;
 }
 
-div {
-    margin-right: 20px;
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
